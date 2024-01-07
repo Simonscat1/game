@@ -1,0 +1,32 @@
+[gd_scene load_steps=2 format=3 uid="uid://cgfso7m7pdesv"]
+
+[ext_resource type="Script" path="res://startscreen.gd" id="1_77ylb"]
+
+[node name="startscreen" type="CanvasLayer"]
+script = ExtResource("1_77ylb")
+
+[node name="start" type="Button" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 1137.0
+offset_top = 708.0
+offset_right = -1121.0
+offset_bottom = -559.0
+grow_horizontal = 2
+grow_vertical = 2
+text = "Start"
+
+[node name="TextureRect" type="TextureRect" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 1090.0
+offset_top = 544.0
+offset_right = -714.0
+offset_bottom = -254.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.3, 0.3)
+
+[connection signal="pressed" from="start" to="." method="_on_start_pressed"]

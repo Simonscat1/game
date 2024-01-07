@@ -1,0 +1,13 @@
+AudioStreamPlayer2D
+TextureRect
+Button
+CanvasLayer
+Label
+AnimatedSprite2D
+CollisionShape2D
+Area2D
+TileMap
+CharacterBody2D
+ProgressBar
+Camera2D
+AnimationPlayer

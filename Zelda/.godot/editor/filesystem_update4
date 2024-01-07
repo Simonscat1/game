@@ -1,0 +1,9 @@
+res://player.tscn
+res://player.gd
+res://cave.tscn
+res://gameover.tscn
+res://magpie.gd
+res://startscreen.tscn
+res://world.tscn
+res://magpie.tscn
+res://stick.tscn
