@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cpryvspiy4qv5"
-path="res://.godot/imported/highvisf.png-4009db4afc6c0ce6760d5ed61d5db553.ctex"
+uid="uid://dfpjb15qer8a2"
+path="res://.godot/imported/Character_SpriteSheet_Block_hurt.png-beff1436b333232fc525b104dabbb596.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://highvisf.png"
-dest_files=["res://.godot/imported/highvisf.png-4009db4afc6c0ce6760d5ed61d5db553.ctex"]
+source_file="res://Character_SpriteSheet_Block_hurt.png"
+dest_files=["res://.godot/imported/Character_SpriteSheet_Block_hurt.png-beff1436b333232fc525b104dabbb596.ctex"]
 
 [params]
 

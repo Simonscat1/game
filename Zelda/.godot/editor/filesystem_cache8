@@ -1,29 +1,26 @@
 2a60927148abd1d33b818b535e306557
-::res://::1704618637
-8-bit-arcade-138828.mp3::AudioStreamMP3::4335194167404680181::1693697410::1704613582::1::::<><>::
-bogan world logo.png::CompressedTexture2D::1667171233241907192::1693696866::1693696913::1::::<><>::
+::res://::1704782874
 bogan_sprites.png::CompressedTexture2D::8544271331049607346::1691649131::1693645764::1::::<><>::
 cave.gd::GDScript::-1::1693605793::0::1::::<>Node2D<>::
-cave.mp3::AudioStreamMP3::1719590469162237775::1693697761::1693697799::1::::<><>::
-cave.tscn::PackedScene::2945945248619427047::1704612578::0::1::::<><>::res://cave.gd<>uid://d1mgdou76nv1j<>uid://b5pwgbkgl7rqx<>uid://c73mrse1u51t2<>uid://bk0hpvynj6dm1<>uid://yq8ny1vrg2hv
+cave.tscn::PackedScene::2945945248619427047::1704619007::0::1::::<><>::res://cave.gd<>uid://d1mgdou76nv1j<>uid://c73mrse1u51t2<>uid://bk0hpvynj6dm1
+Character_SpriteSheet.png::CompressedTexture2D::7349839556637401022::1639760357::1704778836::1::::<><>::
+Character_SpriteSheet_Block_hurt.png::CompressedTexture2D::7541721586993419495::1639756729::1704779124::1::::<><>::
 flammin stick.png::CompressedTexture2D::5704013153237323786::1693604883::1693604883::1::::<><>::
 forest_ [resources].png::CompressedTexture2D::314678201155352530::1691966596::1691966596::1::::<><>::
 forest_.png::CompressedTexture2D::9009314945774062377::1691220021::1691220021::1::::<><>::
 gameover.gd::GDScript::-1::1693697187::0::1::::<>CanvasLayer<>::
-gameover.mp3::AudioStreamMP3::5534505191012185226::1693697625::1693697651::1::::<><>::
-gameover.tscn::PackedScene::3214335110758925477::1704612413::0::1::::<><>::res://gameover.gd<>uid://ck37qyvorwfbu
+gameover.tscn::PackedScene::3214335110758925477::1704780345::0::1::::<><>::res://gameover.gd
 global.gd::GDScript::-1::1693605303::0::1::::<>Node<>::
-highvisf.png::CompressedTexture2D::5862264122263185360::1693446431::1693446431::1::::<><>::
 icon.svg::CompressedTexture2D::6331206970052414439::1691218990::1691218993::1::::<><>::
-magpie.gd::GDScript::-1::1693606004::0::1::::<>CharacterBody2D<>::
+magpie.gd::GDScript::-1::1704618854::0::1::::<>CharacterBody2D<>::
 magpie.png::CompressedTexture2D::5041787747406926131::1692406293::1692406293::1::::<><>::
-magpie.tscn::PackedScene::4288928096420912342::1704612578::0::1::::<><>::res://magpie.gd<>uid://cd3jri1evd3vr
-mum.tscn::PackedScene::4524398216009245291::1704612578::0::1::::<><>::uid://cpryvspiy4qv5
-player.gd::GDScript::-1::1693633972::0::1::::<>CharacterBody2D<>::
-player.tscn::PackedScene::7077446856135270777::1704612578::0::1::::<><>::uid://dty55u72q6li5<>res://player.gd
+magpie.tscn::PackedScene::4288928096420912342::1704780345::0::1::::<><>::res://magpie.gd<>uid://cd3jri1evd3vr
+player.gd::GDScript::-1::1704779420::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::7077446856135270777::1704780345::0::1::::<><>::res://player.gd<>uid://dcyk1v6qg32co
+SqueletteDeath&Block.png::CompressedTexture2D::986722527823390045::1642496718::1704782876::1::::<><>::
 startscreen.gd::GDScript::-1::1693696787::0::1::::<>CanvasLayer<>::
-startscreen.tscn::PackedScene::5205415925728119569::1704612579::0::1::::<><>::res://startscreen.gd<>uid://x0ucjbanfdye<>uid://b21aaq3fr30ll
+startscreen.tscn::PackedScene::5205415925728119569::1704780345::0::1::::<><>::res://startscreen.gd
 stick.gd::GDScript::-1::1693605751::0::1::::<>Area2D<>::
-stick.tscn::PackedScene::3140371510452426854::1704612413::0::1::::<><>::res://stick.gd<>uid://cnjci7lpi3m4a
+stick.tscn::PackedScene::3140371510452426854::1704780345::0::1::::<><>::res://stick.gd<>uid://cnjci7lpi3m4a
 world.gd::GDScript::-1::1693448625::0::1::::<>Node2D<>::
-world.tscn::PackedScene::450350094557292501::1704612578::0::1::::<><>::uid://d1mgdou76nv1j<>res://world.gd<>uid://c73mrse1u51t2<>uid://eqox6263f7va<>uid://b2duawd2gnw51<>uid://b21aaq3fr30ll
+world.tscn::PackedScene::450350094557292501::1704780345::0::1::::<><>::uid://d1mgdou76nv1j<>res://world.gd<>uid://c73mrse1u51t2<>uid://eqox6263f7va<>uid://b2duawd2gnw51
